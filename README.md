@@ -1,3 +1,5 @@
+# Code from my talk about model testing, see the last commit on how to test yourself
+
 # TodoMVC built with React Hooks and Redux
 
 [![Build Status](https://travis-ci.com/blacksonic/todomvc-react-hooks.svg?branch=master)](https://travis-ci.com/blacksonic/todomvc-react-hooks)
